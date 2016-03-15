@@ -1,5 +1,5 @@
 # Abhinav_JavaAssignment1_2
-//prime numbers between 1 and 100
+#prime numbers between 1 and 100
 
 public class PrimeNumber {
 	public static void main(String args[]){
